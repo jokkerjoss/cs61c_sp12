@@ -1,1 +1,4 @@
 Problem 1: Basics Potpourri
+
+1. The computer which used to run large problems and and usually was accessed via network - LOW END-SERVERS
+2.2^50 bytes= 1 petabyte
