@@ -14,3 +14,5 @@ Dev 2 - 5.The part of the computer called central processor unit - CPU
 
 6.The memory called the random access memory - RAM
 7. The desktop computer without screen or keyboard usually accessed via the network - LOW END SERVER
+8. The microprocessor containing several processors in the same chip - MULTICORE PROCESSORS
+
