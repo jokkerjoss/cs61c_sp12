@@ -1,6 +1,6 @@
 Problem 1: Basics Potpourri
 
-1. The computer which used to run large problems and and usually was accessed via network - LOW END-SERVERS
+1. The computer which used to run large problems and and usually was accessed via network - SERVER
 2.2^50 bytes= 1 petabyte
 <<<<<<< HEAD
 Dev 2 - 3. The computers which are composed of hundreds to thousands of processors and terabytes of memory - SUPERCOMPUTERS
@@ -13,3 +13,4 @@ Dev 2 - 3. The computers which are composed of hundreds to thousands of processo
 Dev 2 - 5.The part of the computer called central processor unit - CPU
 
 6.The memory called the random access memory - RAM
+7. The desktop computer without screen or keyboard usually accessed via the network - LOW END SERVER
