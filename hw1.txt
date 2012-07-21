@@ -11,3 +11,5 @@ Dev 2 - 3. The computers which are composed of hundreds to thousands of processo
 >>>>>>> Answered Q4 by jokkerjoss
 
 Dev 2 - 5.The part of the computer called central processor unit - CPU
+
+6.The memory called the random access memory - RAM
