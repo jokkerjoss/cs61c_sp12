@@ -16,4 +16,10 @@ Dev 2 - 5.The part of the computer called central processor unit - CPU
 7. The desktop computer without screen or keyboard usually accessed via the network - LOW END SERVER
 8. The microprocessor containing several processors in the same chip - MULTICORE PROCESSORS
 9. Thousands of processors forming yhe large cluster - DATACENTER
+10. Currently the largest class of computer that runs one application or one set of related applications - DESKTOP COMPUTER
+11. Program that translates statements in high-level language to assembly language - COMPILER
+12. Special language used to describe hardware components - MACHINE LANGUAGE
+13. P
+
+
 
