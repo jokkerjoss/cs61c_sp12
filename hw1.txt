@@ -19,7 +19,25 @@ Dev 2 - 5.The part of the computer called central processor unit - CPU
 10. Currently the largest class of computer that runs one application or one set of related applications - DESKTOP COMPUTER
 11. Program that translates statements in high-level language to assembly language - COMPILER
 12. Special language used to describe hardware components - MACHINE LANGUAGE
-13. P
+13. The personal computer delivering good performance to single users at low cost - DESKTOP COMPUTER
+14. The program that translates symbolic instructions to binary instructions - ASSEMBLER
+15. The high level language for scientific computation - FORTRAN
+16. The commands that the processor unerstands - MACHINE LANGUAGE
+17. The binary language that the processor can understand - MACHINE LANGUAGE
+18. The high level language for business data processing - COBOL
+19. The symbolic representation of machine instructions - BIT
+20. The interface between user´s program and hardware providing a variety of services and supervision functions - SYSTEM SOFTWARE
+21. The software/programs developed by the users - APPLICATION SOFTWARE
+22. The software layer between the application software and the hardware that includes the operating system and the compilers - SYSTEM SOFTWARE
+23. The high-level language used to write application and system software - C 
+23. The portable language composed of words and algebraic expressions that must be translated into assembly language before run in a computer - INSTRUCTION
+24. The 2^40 bytes - TERABYTE
+25. The binary digit (0 or 1) - BIT
+
+
+
+
+
 
 
 
