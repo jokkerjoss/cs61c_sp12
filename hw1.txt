@@ -37,7 +37,12 @@ Dev 2 - 5.The part of the computer called central processor unit - CPU
 b) If a computer connected to a 1 Gb Ethernet network needs to send a 256KB  files, how long would it take - 5 SECONDS
 
 c) Assuming that a cache memory is tentimes faster than the DRAM memory, that DRAM is 100,000 times faster than magnetic disk, and that flash memory is 1000 times faster than disk, find how long it takes to read a file from a DRAM, a disk, and flash memory if it takes 2 microseconds from cache memory - 
-20 MICROSECONDS from DRAM, 0.2 SECONDS from disk, 0,002 ms from the fkash memory.
+20 MICROSECONDS from DRAM, 0.2 SECONDS from disk, 0,002 ms from the flash memory.
+d) Lots of service providers boast about offering "five nines" of uptime in their service level agreements.
+	1. It is meaning that about 99.999% uptime translates only 26 sec.
+	2. They can tolerate downtime-__________  per year without breaking their SLA
+e) The designs of the warehause scale computers need to be inherently fault-tolerant, because of too much data depends on them.
+f) The Google uses desktop-grade hardware instead of the server-grade hardware, because of the PRICE.
 
 
 
